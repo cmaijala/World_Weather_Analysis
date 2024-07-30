@@ -1,6 +1,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks,windows
 # Edit at https://www.toptal.com/developers/gitignore?templates=jupyternotebooks,windows
 
+#API Key file
+api_keys.py
+
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
