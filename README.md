@@ -92,7 +92,7 @@ Add the hotel name and the country as additional information in the hover messag
 
 
 
-
+Some of the code examples and solutions in this repository were generated with the help of OpenAI's ChatGPT model. For more information about ChatGPT, visit OpenAI's website.
 
 
 
